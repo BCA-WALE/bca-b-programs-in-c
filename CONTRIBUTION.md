@@ -8,4 +8,4 @@
 
 This is to be done so that less issues arise when both sections get interchanged programs with respect to lab number.
 
-Thanks you.
+Thank you.
