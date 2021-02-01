@@ -1,6 +1,8 @@
 # BCA B Programs in C
 BCA B sec's programs repo.
 
+### NOTE - check how to contribute to the repo [here](https://github.com/BCA-WALE/bca-b-programs-in-c/blob/main/CONTRIBUTION.md)
+
 Programs in C given by our uni.
 Just **do not copy** the codes, humans.
 
