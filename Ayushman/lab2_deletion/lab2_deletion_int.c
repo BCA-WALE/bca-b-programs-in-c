@@ -1,11 +1,4 @@
-/*
-
-a program to delete element(s) from one dimensional array
-
-note - display option doesn't work
-
-*/
-
+// a program to delete element(s) from one dimensional array
 
 // header files
 #include <stdio.h>
