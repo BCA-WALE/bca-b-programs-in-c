@@ -1,6 +1,6 @@
 # How to Contribute to the repo?
 - kindly name the file as "lab<number>_<program_problem>.c"
-	- example - "lab1_insertion.c", "lab2.deletion.c"
+	- example - "lab1_insertion.c", "lab2_deletion.c"
 
 - have the problem description of the program in comments at the beginning.
 
