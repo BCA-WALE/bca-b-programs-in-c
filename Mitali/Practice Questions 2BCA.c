@@ -1,4 +1,5 @@
-//Practice Questions
+//Practice Questions set 1
+//this file contains main and call its functions from pq1DA,pq1DCA,pq2DA,pq2DCA
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
