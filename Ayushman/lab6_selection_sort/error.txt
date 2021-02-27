@@ -1,0 +1,5 @@
+meow@pop-os:~/Documents/practicePrograms/lab6_selection_sort$ gcc lab6_selectionSort.c -o lab6_selectionSort
+/usr/bin/ld: /tmp/ccPxVnpg.o: in function `main':
+lab6_selectionSort.c:(.text+0xac): undefined reference to `int_sort_program'
+/usr/bin/ld: lab6_selectionSort.c:(.text+0xcf): undefined reference to `int_sort_program'
+collect2: error: ld returned 1 exit status

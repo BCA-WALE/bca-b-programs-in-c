@@ -1,0 +1,14 @@
+FCC
+https://www.freecodecamp.org/news/demystifying-dynamic-programming-3efafb8d4296/
+
+codechef
+https://www.codechef.com/wiki/tutorial-dynamic-programming
+
+topcoder
+https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/
+
+hackerearth
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+
+FCC malloc, calloc, realloc
+https://jraleman.medium.com/c-programming-language-functions-malloc-calloc-realloc-and-free-61cfc3e45da7
